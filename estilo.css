@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  background: linear-gradient(to bottom, #ec5de9 50%, #291ab1 50%);
+}
+
+img {
+  border-radius: 50%;
+  border: 2px solid #291ab1;
+  background-color: white;
+}
+
+.uno {
+  font-weight: bold;
+}
